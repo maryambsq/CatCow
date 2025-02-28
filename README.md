@@ -1,6 +1,6 @@
 # CatCow
 
-<img width="935" alt="Screenshot 1446-08-29 at 1 48 44 PM" src="https://github.com/user-attachments/assets/9b564601-eadf-433b-9985-93281e3826bf" />
+<img width="1373" alt="Screenshot 1446-08-29 at 1 48 44 PM" src="https://github.com/user-attachments/assets/9b564601-eadf-433b-9985-93281e3826bf" />
 
 ## Table of Contents
 1. [Introduction](#introduction)
