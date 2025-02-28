@@ -1,7 +1,7 @@
 # CatCow
 
 
-<img width="1373" alt="Screenshot 1446-08-29 at 1 50 49 PM" src="https://github.com/user-attachments/assets/a26f79c2-8718-4246-9b8a-f98167df037a" />
+<img width="1373" alt="Screenshot 1446-08-29 at 1 50 49 PM" src="https://github.com/user-attachments/assets/825a10a4-d78d-4fd8-98a5-c448b6dfa6bb" />
 
 
 ## Table of Contents
