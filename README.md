@@ -2,7 +2,6 @@
 
 A practical tool for busy desk users to relieve neck, back, and shoulder pain through quick stretching routines, both at and away from the desk, helping them reconnect with their bodies during long work hours.
 
----
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -10,7 +9,6 @@ A practical tool for busy desk users to relieve neck, back, and shoulder pain th
 3. [Features](#features)
 4. [Contributing](#contributing)
 
----
 
 ## Introduction
 
@@ -20,7 +18,7 @@ That’s where **CatCow** steps in! Inspired by my favorite yoga pose, a playful
 
 With every stretch, peek, and playful nudge, CatCow helps users build a **healthier and happier lifestyle**. It’s more than just posture correction; it’s about fostering small, meaningful habits that prioritize well-being without disrupting focus. Because feeling good shouldn’t be an afterthought.
 
----
+
 
 ## Technologies Used
 
@@ -31,7 +29,7 @@ CatCow is developed using:
 - **Figma** – Used to design prototypes and plan UI structure.
 - **Apple Freeform** – Sketched the CatCow kitty character using an iPad and Apple Pencil.
 
----
+
 
 ## Features
 
@@ -60,7 +58,7 @@ CatCow is developed using:
 - **Daily curated notifications** reminding users to take stretch breaks.
 - **iOS Fitness App integration** to track movement and suggest stretch breaks.
 
----
+
 
 ## Contributing
 
@@ -71,6 +69,6 @@ Interested in contributing to CatCow? Feel free to:
 
 If you have suggestions or feedback, feel free to open an **issue**!
 
----
+
 
 *CatCow is a personal project I’m dedicated to improving and launching on the App Store!* 🐈‍⬛🧘‍♀️✨
