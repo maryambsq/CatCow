@@ -1,6 +1,6 @@
 # CatCow
 
-<img width="541" alt="Screenshot 1446-08-29 at 1 41 23 PM" src="https://github.com/user-attachments/assets/e1f157b9-0167-491a-bc3b-8306b196e225" />
+<img width="1373" alt="Screenshot 1446-08-29 at 1 41 23 PM" src="https://github.com/user-attachments/assets/e1f157b9-0167-491a-bc3b-8306b196e225" />
 
 
 A practical tool for busy desk users to relieve neck, back, and shoulder pain through quick stretching routines, both at and away from the desk, helping them reconnect with their bodies during long work hours.
