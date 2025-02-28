@@ -71,4 +71,4 @@ If you have suggestions or feedback, feel free to open an **issue**!
 
 
 
-*CatCow is a personal project I’m dedicated to improving and launching on the App Store!* 🐈‍⬛🧘‍♀️✨
+CatCow is a personal project I’m dedicated to improving and launching on the App Store! 🐈‍⬛🧘‍♀️✨
